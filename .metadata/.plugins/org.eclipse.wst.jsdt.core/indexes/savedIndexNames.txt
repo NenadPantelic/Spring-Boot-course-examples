@@ -1,0 +1,3 @@
+INDEX VERSION 1.4+/home/nenad/Documents/Spring_projects/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2110037690.index
+1634248477.index
