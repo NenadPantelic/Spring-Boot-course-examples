@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-/home/nenad/Documents/Spring_projects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/489492307.index
-/Spring5/src/main/resources
-/home/nenad/Documents/Spring_projects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1678462161.index
-/S03L01 - Dependency Injection/src/main/java
-/home/nenad/Documents/Spring_projects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1634248477.index
-/Section 3 - Dependency Injection/src/main/java

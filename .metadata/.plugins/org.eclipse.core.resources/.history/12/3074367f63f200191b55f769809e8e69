@@ -1,5 +1,0 @@
-package org.spring.course;
-
-public interface Car {
-
-}
