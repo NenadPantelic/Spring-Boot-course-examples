@@ -1,1 +1,1 @@
-# Spring-Boot-course-examples
+# Spring-course-examples
