@@ -13,7 +13,7 @@
 </head>
 <body>
 	<table>
-		<!-- set action to appropriate controller's name  -->
+		<!-- set the method name from the controller to the action name  -->
 		<form:form modelAttribute="user" action="addUser">
 			<tr>
 				<td>Name: <form:input path="name" /></td>
