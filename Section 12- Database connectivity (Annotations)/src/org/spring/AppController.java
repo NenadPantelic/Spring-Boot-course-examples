@@ -36,7 +36,7 @@ public class AppController {
 		String viewName = null;
 		if (result.hasErrors()) {
 			model.addAttribute("user", user);
-			viewName = "addUser";
+			viewName = "addUserView";
 		} else if (user.getName() != null && user.getEmail() != null) {
 			AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 			UserDAOImpl repository = context.getBean("DAOBean", UserDAOImpl.class);
